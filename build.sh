@@ -12,6 +12,16 @@ cat << EOM
 Usage: $0 [OPTION]...
 Build xpedite profiler.
 
+
+
+
+
+
+
+
+
+
+
 Mandatory arguments to long options are mandatory for short options too.
   -t, --type                      type of the build DEBUG, RELEASE
   -v, --verbose                   collect hardware performance counters
